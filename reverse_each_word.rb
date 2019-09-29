@@ -1,4 +1,4 @@
-def rev_str
+def 
   String.split
 end
 
