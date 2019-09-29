@@ -1,1 +1,4 @@
-def reverse_each_word
+def rev_str
+  String
+  
+end
